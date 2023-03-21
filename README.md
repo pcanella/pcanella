@@ -5,7 +5,7 @@ I'm a front end engineer currently working at [@ebay](https://www.ebay.com)!
 
 I’ve been in the industry over 10 years and love what I do. I frequently enjoy building new side projects and learning new tools and languages! 
 
-Outside of work, I’ve been incredibly busy with my main side project, **Fish Harmony** ([check it out on the App Store](https://apps.apple.com/us/app/fish-harmony/id1309770017)), a saltwater fish comparison tool to make sure your fish get along and don’t hurt or kill each other!
+Outside of work, I’ve been incredibly busy with my main side project, **Fish Harmony** ([check it out on the App Store!](https://apps.apple.com/us/app/fish-harmony/id1309770017)), a saltwater fish comparison tool to make sure your fish get along and don’t hurt or kill each other!
 
 I also have another not-yet-launched project Called Retro Hockey! It's a throwback game I've been working on using ~SwiftUI and Spritekit~ **Godot 4**! Details on that coming soon.
 
