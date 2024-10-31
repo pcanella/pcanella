@@ -9,7 +9,7 @@ Outside of work, I’ve been incredibly busy with my main side project, **Fish H
 
 I also have another not-yet-launched project Called Retro Hockey! It's a throwback game I've been working on using ~SwiftUI and Spritekit~ **Godot 4**! Details on that coming soon.
 
-You can usually find me coding, tending to my aquariums or binge watching the latest Netflix series with my wife and cat.
+You can usually find me coding, tending to my garden or binge watching the latest Netflix series with my wife and cats.
 
 I also am available for hire! Please send me an email if you are interested in web development or mobile application freelancing.
 
